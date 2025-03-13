@@ -1,2 +1,2 @@
-Thay đổi đường dẫn của sqlite và server.crt, server.key trong code của client và server.
-Thực hiện chày newcert.py trước để sinh ra chứng chỉ và khóa mới 
+Chạy file server.py và client.py 
+Muốn dùng database mới, chạy file init_db
