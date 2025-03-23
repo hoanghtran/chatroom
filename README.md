@@ -15,7 +15,7 @@ Lưu ý: Để làm mới dữ liệu database, xoá database và chạy file in
 Bước 2: Khởi chạy file client.py và file server.py
 
 
-Bước 3: Đăng ký, lưu và nhập mã OTP bằng app microsoft authenticator
+Bước 3: Đăng ký, lưu và nhập mã OTP_SECRET bằng app microsoft authenticator
 
 
 Bước 4: Đăng nhập, sử dụng OTP từ app auth để vào chatroom
