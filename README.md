@@ -1,16 +1,16 @@
 Bước 1: Tải toàn bộ các thư viện về qua terminal:
 
-pip install sqlite3
+* pip install sqlite3
 
-pip install socket
+* pip install socket
 
-pip install threading
+* pip install threading
 
-pip install pyotp
+* pip install pyotp
 
-pip install cryptography
+* pip install cryptography
 
-* Để làm mới dữ liệu database, xoá database và chạy file init_database
+Lưu ý: Để làm mới dữ liệu database, xoá database và chạy file init_database
 
 Bước 2: Khởi chạy file client.py và file server.py
 
