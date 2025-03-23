@@ -10,7 +10,7 @@ Bước 1: Tải toàn bộ các thư viện về qua terminal:
 
 * pip install cryptography
 
-Lưu ý: Để làm mới dữ liệu database, xoá database và chạy file init_database
+Lưu ý: Để làm mới dữ liệu database, xoá database và chạy file init_database.py
 
 Bước 2: Khởi chạy file client.py và file server.py
 
