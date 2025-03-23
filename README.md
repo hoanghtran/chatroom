@@ -1,4 +1,5 @@
-Bước 1: Tải toàn bộ các thư viện về:
+Bước 1: Tải toàn bộ các thư viện về qua terminal:
+
 pip install sqlite3
 
 pip install socket
