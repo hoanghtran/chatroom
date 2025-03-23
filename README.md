@@ -1,8 +1,12 @@
 Bước 1: Tải toàn bộ các thư viện về:
 pip install sqlite3
+
 pip install socket
+
 pip install threading
+
 pip install pyotp
+
 pip install cryptography
 
 Bước 2: Khởi chạy file client.py và file server.py
