@@ -13,7 +13,7 @@ CREATE TABLE Client (
     Username TEXT PRIMARY KEY,
     Password TEXT,
     Salt TEXT,
-    otp_secret TEXT
+    Otp_secret TEXT
 );
 """)
 conn.commit()
